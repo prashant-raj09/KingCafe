@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "src": "https://shwetainthekitchen.com/wp-content/uploads/2023/06/veg-fried-rice.jpg",
+    "alt": "Fried-Rice",
+    "label": "Fried-Rice"
+  },
+  {
+    "id": 2,
+    "src": "https://www.indianveggiedelight.com/wp-content/uploads/2023/09/paneer-fried-rice-featured.jpg",
+    "alt": "Paneer Fried Rice",
+    "label": "Paneer Fried Rice"
+  },
+  {
+    "id": 3,
+    "src": "https://www.licious.in/blog/wp-content/uploads/2023/01/Shutterstock_2047827035-1024x683.jpg",
+    "alt": "Chicken Briyani",
+    "label": "Chicken Briyani"
+  },
+  {
+    "id": 4,
+    "src": "https://img.freepik.com/free-photo/exploding-burger-with-vegetables-melted-cheese-black-background-generative-ai_157027-1734.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1718150400&semt=ais_user",
+    "alt": "Burger",
+    "label": "Burger"
+  },
+  {
+    "id": 5,
+    "src": "https://cdn.loveandlemons.com/wp-content/uploads/2020/05/air-fryer-french-fries.jpg",
+    "alt": "French Fries",
+    "label": "French Fries"
+  },
+  {
+    "id": 6,
+    "src": "https://media.istockphoto.com/id/1292640499/photo/bread-pakora-or-pakoda-served-with-chutney-a-famous-midday-snack-in-india-served-in-white.jpg?s=612x612&w=0&k=20&c=GqMce-o6TTohjd4HvhUoAtrB16X2svWT9srQ02SgQYc=",
+    "alt": "Bread Pakora",
+    "label": "Bread Pakora"
+  },
+  {
+    "id": 7,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Pizza-3007395.jpg",
+    "alt": "Pizza",
+    "label": "Pizza"
+  },
+  {
+    "id": 8,
+    "src": "https://www.mygingergarlickitchen.com/wp-content/uploads/2024/02/veg-momos-recipe-5.jpg",
+    "alt": "Momos",
+    "label": "Momos"
+  },
+  {
+    "id": 9,
+    "src": "https://spicecravings.com/wp-content/uploads/2020/12/Paneer-kathi-Roll-Featured-1.jpg",
+    "alt": "Paneer Kathi Roll",
+    "label": "Rolls"
+  },
+  {
+    "id": 10,
+    "src": "https://ik.imagekit.io/awwybhhmo/satellite_images/chinese/beyondmenu/hero/2.jpg?tr=w-3840,q-50",
+    "alt": "Chinese Food",
+    "label": "Chinese"
+  },
+  {
+    "id": 11,
+    "src": "https://img.lovepik.com/photo/20211118/medium/lovepik-hot-indian-pakistan-flat-bread-khameer-roti-naan-picture_480016958.jpg",
+    "alt": "Roti",
+    "label": "Roti"
+  },
+  {
+    "id": 12,
+    "src": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2023/09/Vegetable-Soup-main.jpg",
+    "alt": "Soup",
+    "label": "Soup"
+  },
+  {
+    "id": 13,
+    "src": "https://media.istockphoto.com/id/1297483389/photo/masala-tea-chai.jpg?s=612x612&w=0&k=20&c=Pv-QROSSywNh_qzHIIjHJeJB7OT0ujrKQsSiTgOmJAs=",
+    "alt": "Tea",
+    "label": "Tea"
+  }
+]

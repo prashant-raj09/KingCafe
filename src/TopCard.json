@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "src": "https://c.ndtvimg.com/2022-04/fq5cs53_biryani-doubletree-by-hilton_625x300_12_April_22.jpg",
+    "alt": "Biryani",
+    "label": "Biryani"
+  },
+  {
+    "id": 2,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Pizza-3007395.jpg",
+    "alt": "Pizza",
+    "label": "Pizza"
+  },
+  {
+    "id": 3,
+    "src": "https://www.mygingergarlickitchen.com/wp-content/uploads/2024/02/veg-momos-recipe-5.jpg",
+    "alt": "Momos",
+    "label": "Momos"
+  },
+  {
+    "id": 4,
+    "src": "https://spicecravings.com/wp-content/uploads/2020/12/Paneer-kathi-Roll-Featured-1.jpg",
+    "alt": "Paneer Kathi Roll",
+    "label": "Rolls"
+  },
+  {
+    "id": 5,
+    "src": "https://ik.imagekit.io/awwybhhmo/satellite_images/chinese/beyondmenu/hero/2.jpg?tr=w-3840,q-50",
+    "alt": "Chinese Food",
+    "label": "Chinese"
+  }
+]
